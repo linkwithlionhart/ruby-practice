@@ -1,4 +1,4 @@
-# ARGV 
+# ARGV - Argument Variable
   # The ARGV in Ruby is a constant that holds the arguments passed to your script at the command line. 
   # ARGV is an array, so the arguments are stored as strings in an indexed order.
 
